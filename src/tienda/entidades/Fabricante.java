@@ -16,8 +16,10 @@ public class Fabricante {
     
     private String nombreF;
     
+    private String segundoNombreF;
+    
     private String apellidoF;
-
+    
     public Fabricante() {
     }
 
