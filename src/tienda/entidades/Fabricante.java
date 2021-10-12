@@ -15,6 +15,8 @@ public class Fabricante {
     private int codigo;
     
     private String nombreF;
+    
+    private String apellidoF;
 
     public Fabricante() {
     }
