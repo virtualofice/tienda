@@ -20,6 +20,8 @@ public class Fabricante {
     
     private String apellidoF;
     
+    private String segundoApellidoF;
+    
     public Fabricante() {
     }
 
